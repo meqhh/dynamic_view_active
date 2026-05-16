@@ -12,7 +12,7 @@ By adding two custom field attributes (`view_metadata` and `menu_metadata`) to a
 
 - **Author:** Meqh  
 - **GitHub:** [https://github.com/meqhh/dynamic_view_active](https://github.com/meqhh/dynamic_view_active)  
-- **Version:** 19.0  
+- **Version:** 19.0 (I only tested with Odoo 19.0 and I don't tested with other versions. you could test it and tell me if it works with other versions)
 - **License:** Unlicense (Public Domain)  
 
 ---
