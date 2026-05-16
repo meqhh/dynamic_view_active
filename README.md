@@ -4,6 +4,14 @@
 
 ---
 
+> [!NOTE]
+> **Authorship Transparency**
+>
+> - **Code** — Written entirely by me (Meqh) from scratch. Every line of Python logic in this module is my own original work.
+> - **README** — This documentation was generated with the assistance of an AI tool (Claude Sonnet 4.6) based on my code, and then lightly edited by me.
+
+---
+
 ## Overview
 
 `dynamic_view_active` is a lightweight Odoo 19 technical module that allows developers to **declaratively control the `active` state of views and menu items** through the standard **Settings** interface.
