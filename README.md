@@ -7,8 +7,8 @@
 > [!NOTE]
 > **Authorship Transparency**
 >
-> - **Code** — Written entirely by me (Meqh) from scratch. Every line of Python logic in this module is my own original work.
-> - **README** — This documentation was generated with the assistance of an AI tool (Claude Sonnet 4.6) based on my code, and then lightly edited by me.
+> - **Code** — Written entirely by me (Fazri/meqhh) from scratch. Every line of Python logic in this module is my own original work.
+> - **README** — This documentation was generated with the assistance of an AI tool (Claude Sonnet 4.6) based on my code, and then lightly edited by me. (Because im lazy to docs what i de LMAO)
 
 ---
 
@@ -18,7 +18,7 @@
 
 By adding two custom field attributes (`view_metadata` and `menu_metadata`) to any `Boolean` field on `res.config.settings`, you can wire a simple on/off toggle in the UI to enable or disable any `ir.ui.view` or `ir.ui.menu` record by its XML ID — for a single record or a batch at once.
 
-- **Author:** Meqh  
+- **Author:** (Fazri/meqhh)
 - **GitHub:** [https://github.com/meqhh/dynamic_view_active](https://github.com/meqhh/dynamic_view_active)  
 - **Version:** 19.0 (I only tested with Odoo 19.0 and I don't tested with other versions. you could test it and tell me if it works with other versions)
 - **License:** Unlicense (Public Domain)  
